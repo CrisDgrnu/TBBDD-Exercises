@@ -4,7 +4,7 @@ TRUNCATE
 INTO TABLE PERSONA
 FIELDS TERMINATED BY ","
 (
-    ID,
-    NOMBRE
+    id,
+    nombre
 )
 
