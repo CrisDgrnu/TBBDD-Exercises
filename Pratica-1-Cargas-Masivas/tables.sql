@@ -1,0 +1,4 @@
+CREATE TABLE PERSONA(
+    ID          VARCHAR2(3)     PRIMARY KEY,
+    NOMBRE      VARCHAR2(30)
+);
