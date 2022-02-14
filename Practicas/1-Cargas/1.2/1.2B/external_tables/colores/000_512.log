@@ -1,0 +1,40 @@
+
+
+ LOG file opened at 02/14/22 13:22:59
+
+Field Definitions for table TE_COLORES
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COD                             CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+KUP-04073: record ignored because all referenced fields are null for a record
+
+
+ LOG file opened at 02/14/22 13:23:40
+
+Field Definitions for table TE_COLORES
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COD                             CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+KUP-04073: record ignored because all referenced fields are null for a record

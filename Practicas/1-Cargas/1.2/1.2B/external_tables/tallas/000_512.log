@@ -1,0 +1,38 @@
+
+
+ LOG file opened at 02/14/22 13:26:40
+
+Field Definitions for table TE_TALLAS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COD                             CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/14/22 13:27:30
+
+Field Definitions for table TE_TALLAS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COD                             CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right

@@ -1,0 +1,366 @@
+
+
+ LOG file opened at 02/14/22 13:31:33
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          Integer (4)
+      Record position (+0, +4)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 1 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 2 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+
+
+ LOG file opened at 02/14/22 13:31:51
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          Integer (4)
+      Record position (+0, +4)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 1 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 2 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+
+
+ LOG file opened at 02/14/22 13:33:55
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          Integer (4)
+      Record position (+0, +4)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 1 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 2 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+
+
+ LOG file opened at 02/14/22 13:36:51
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          Integer (4)
+      Record position (+0, +4)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 1 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 2 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+
+
+ LOG file opened at 02/14/22 13:37:34
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          CHAR (3)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/14/22 13:37:37
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          CHAR (3)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/14/22 13:37:39
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          CHAR (3)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/14/22 13:40:28
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/14/22 13:40:49
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          Integer (4)
+      Record position (+0, +4)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 1 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 2 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+
+
+ LOG file opened at 02/14/22 13:40:59
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          Integer (4)
+      Record position (+0, +4)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 1 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+KUP-04021: field formatting error for field NUMERO
+KUP-04025: field extends beyond end of record
+KUP-04101: record 2 rejected in file /home/oracle/external_tables/1.2B/productos/productos.txt
+
+
+ LOG file opened at 02/14/22 13:41:17
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          CHAR (3)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+
+
+ LOG file opened at 02/14/22 13:43:01
+
+Field Definitions for table TE_PRODUCTOS
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Reject rows with all null fields
+
+  Fields in Data Source: 
+
+    ARTICULO                        CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    COLOR                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    TALLA                           CHAR (30)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right
+    NUMERO                          CHAR (5)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from left and right

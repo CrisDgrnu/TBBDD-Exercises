@@ -1,0 +1,4 @@
+
+azul,000
+rojo,001
+amarillo,002
