@@ -124,7 +124,7 @@ FROM
 GROUP BY   
     CUBE (articulo, color, talla);
     
--- SILICING => La maestra no puso ni media y me tengo que ir a entrenar
+-- SILICING => Consiste en proyectar con SELECT y FROM de toda la vida
 
 
 -- RANK => Permite crear un ranking segun el criterio
