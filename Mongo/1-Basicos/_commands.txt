@@ -1,0 +1,4 @@
+Ir desde la terminal a este directorio (donde estan los scripts js) 
+y ejecutar desde ahi la shell con la conexión.
+
+Para cargar un script desde mongosh => load("./nombreScript.js")
