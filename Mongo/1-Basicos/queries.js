@@ -28,7 +28,6 @@ const res3 = db.ebooks.find({
     {
       $or: [{ Author: { $regex: "Dumas" } }, { Apellido: "Dumas" }],
     },
-
     {
       $or: [
         {
